@@ -16,7 +16,7 @@ hence the package will remain unlicensed. *Use at your own risk!*
 3. Click on the library, then click on the Install button.
 
 ### From the ZIP file
-1. Download the [ZIP file](https://github.com/dmkishi/Dusk2Dawn/archive/master.zip).
+1. Download the [ZIP file](https://github.com/FrankBoesing/Dusk2DawnPlus/archive/master.zip).
 2. Launch the Arduino IDE and navigate to *Sketch → Include Library → Add .ZIP Library...*. From the prompt, select the ZIP just downloaded.
 
 ## Usage
